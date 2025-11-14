@@ -2,7 +2,7 @@ Sistema de Controle de Peças – Python
 
 Este projeto implementa um sistema simples de controle de qualidade e organização de peças industriais, utilizando apenas conteúdos básicos estudados na disciplina de Algoritmos e Lógica de Programação.
 
-O sistema funciona no terminal e oferece um menu interativo para cadastro, listagem, remoção e análise das peças
+O sistema funciona no terminal e oferece um menu interativo para cadastro, listagem, remoção e análise das peças.
 
 Funcionalidades
 
