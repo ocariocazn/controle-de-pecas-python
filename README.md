@@ -28,7 +28,7 @@ Cada caixa comporta 10 peças
 Quando a caixa atinge a capacidade máxima, ela é fechada
 O sistema recalcula as caixas automaticamente sempre que peças são cadastradas ou removidas
 
-📂 Estrutura do Projeto
+Estrutura do Projeto
 controle-pecas/
 │
 ├── main.py
